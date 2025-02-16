@@ -1,0 +1,51 @@
+.bodyIndex {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    align-content: flex-start;
+    margin-top: 30px;
+    background-color: darkgrey;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+    
+}
+
+.sectionSend {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display:flex;
+    
+    flex-direction: row;
+    align-items: center; 
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+
+.resultados{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.h1Titulo{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+
+.h2{
+    font-size: 150px;
+}
+
+.iframeFollowers{
+    margin-top: 5px;    
+}
+
+.socialNetwork{
+    display:flex;
+    flex-direction: row;
+    align-items: center; 
+    justify-content: space-between;
+}
