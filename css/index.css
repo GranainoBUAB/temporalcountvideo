@@ -5,7 +5,7 @@
     align-items: center;
     align-content: flex-start;
     margin-top: 30px;
-    background-color: darkgrey;
+    background-color: black !important;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     
     
@@ -33,6 +33,8 @@
     margin-top: 30px;
     margin-bottom: 30px;
     font-size: 60px;
+    color: white;
+    
 }
 
 .h2{
